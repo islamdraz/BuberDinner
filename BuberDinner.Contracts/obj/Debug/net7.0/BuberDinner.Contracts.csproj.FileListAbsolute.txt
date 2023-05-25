@@ -1,0 +1,12 @@
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.deps.json
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.dll
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.pdb
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfo.cs
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.dll
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\refint\BuberDinner.Contracts.dll
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.pdb
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\ref\BuberDinner.Contracts.dll
