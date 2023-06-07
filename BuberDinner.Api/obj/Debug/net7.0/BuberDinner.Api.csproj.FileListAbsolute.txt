@@ -33,3 +33,8 @@ C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\Buber
 C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Application.pdb
 C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Infrastructure.pdb
 C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
