@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EEO9sY5Xu5BevaVL7V2vGz+IS6GQzo8eSjSdMVsOb+w6PDBtVpMkQsFvE9VbCq1tV/hf6nd51B42d+A0oZi+BA==",
+  "dgSpecHash": "0NBVkdwrtbrTayS0xcnd68CjvGTTQ+5lXj5742w94OJI8jEW0SEdN/8DFJiQQ6DWMXhT7hkCr1YsolXIh7BbIg==",
   "success": true,
-  "projectFilePath": "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+  "projectFilePath": "D:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

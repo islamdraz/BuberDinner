@@ -10,3 +10,15 @@ C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\Buber
 C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\refint\BuberDinner.Contracts.dll
 C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.pdb
 C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\ref\BuberDinner.Contracts.dll
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.deps.json
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.dll
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.pdb
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfo.cs
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.dll
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\refint\BuberDinner.Contracts.dll
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.pdb
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\ref\BuberDinner.Contracts.dll
