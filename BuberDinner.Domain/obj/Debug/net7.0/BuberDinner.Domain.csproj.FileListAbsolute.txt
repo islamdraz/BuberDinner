@@ -22,3 +22,15 @@ D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\Buber
 D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\refint\BuberDinner.Domain.dll
 D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.pdb
 D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\ref\BuberDinner.Domain.dll
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.deps.json
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.dll
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.pdb
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.AssemblyReference.cache
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfo.cs
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.dll
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\refint\BuberDinner.Domain.dll
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.pdb
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\ref\BuberDinner.Domain.dll

@@ -1,3 +1,4 @@
+using BuberDinner.Api.Filters;
 using BuberDinner.Application.Services;
 using BuberDinner.Contracts.Authentication;
 using Microsoft.AspNetCore.Mvc;
@@ -35,6 +36,7 @@ public class AuthenticationController:ControllerBase
     }
   
     [HttpPost("login")]
+    // [ErrorHandlingFilter]
     public IActionResult Login(LoginRequest request)
     {
           var authResult= _iAuthenticationService.Login(         
