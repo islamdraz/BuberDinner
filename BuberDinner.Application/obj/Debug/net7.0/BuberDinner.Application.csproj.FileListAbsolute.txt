@@ -43,3 +43,18 @@ E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.
 E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
 E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
 E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll
+D:\study projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.deps.json
+D:\study projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.dll
+D:\study projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.pdb
+D:\study projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.dll
+D:\study projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.pdb
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.AssemblyReference.cache
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfoInputs.cache
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfo.cs
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CopyComplete
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.dll
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll

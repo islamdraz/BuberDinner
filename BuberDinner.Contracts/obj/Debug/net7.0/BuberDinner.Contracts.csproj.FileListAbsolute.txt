@@ -34,3 +34,15 @@ E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.
 E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\refint\BuberDinner.Contracts.dll
 E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.pdb
 E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\ref\BuberDinner.Contracts.dll
+D:\study projects\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.deps.json
+D:\study projects\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.dll
+D:\study projects\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.pdb
+D:\study projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
+D:\study projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\study projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+D:\study projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfo.cs
+D:\study projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\study projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.dll
+D:\study projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\refint\BuberDinner.Contracts.dll
+D:\study projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.pdb
+D:\study projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\ref\BuberDinner.Contracts.dll

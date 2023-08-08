@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+      "projectUniqueName": "D:\\study projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
       "projectName": "BuberDinner.Contracts",
-      "projectPath": "E:\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+      "projectPath": "D:\\study projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
       "packagesPath": "C:\\Users\\islam.draz\\.nuget\\packages\\",
-      "outputPath": "E:\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+      "outputPath": "D:\\study projects\\BuberDinner\\BuberDinner.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\islam.draz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

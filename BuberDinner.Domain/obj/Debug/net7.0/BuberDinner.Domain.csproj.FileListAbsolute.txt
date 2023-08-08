@@ -34,3 +34,15 @@ E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.
 E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\refint\BuberDinner.Domain.dll
 E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.pdb
 E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\ref\BuberDinner.Domain.dll
+D:\study projects\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.deps.json
+D:\study projects\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.dll
+D:\study projects\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.pdb
+D:\study projects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.AssemblyReference.cache
+D:\study projects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\study projects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+D:\study projects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfo.cs
+D:\study projects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+D:\study projects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.dll
+D:\study projects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\refint\BuberDinner.Domain.dll
+D:\study projects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.pdb
+D:\study projects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\ref\BuberDinner.Domain.dll
