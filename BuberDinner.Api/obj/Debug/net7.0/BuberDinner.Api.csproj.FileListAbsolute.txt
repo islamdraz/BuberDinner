@@ -158,4 +158,7 @@ D:\study projects\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\refint\BuberDinne
 D:\study projects\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\BuberDinner.Api.pdb
 D:\study projects\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\BuberDinner.Api.genruntimeconfig.cache
 D:\study projects\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\ref\BuberDinner.Api.dll
+<<<<<<< HEAD
 D:\study projects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\OneOf.dll
+=======
+>>>>>>> 5c39088993d57a0f2489084d95feaed7dffaba3e
