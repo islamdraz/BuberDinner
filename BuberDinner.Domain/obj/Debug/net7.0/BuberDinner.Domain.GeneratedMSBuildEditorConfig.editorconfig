@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BuberDinner.Domain
-build_property.ProjectDir = C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Domain\
+build_property.ProjectDir = D:\study projects\BuberDinner\BuberDinner.Domain\

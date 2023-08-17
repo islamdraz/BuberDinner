@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {}
+    "D:\\study projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {}
   },
   "projects": {
-    "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "D:\\study projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "D:\\study projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectPath": "D:\\study projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\islam.draz\\.nuget\\packages\\",
-        "outputPath": "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Domain\\obj\\",
+        "outputPath": "D:\\study projects\\BuberDinner\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\islam.draz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

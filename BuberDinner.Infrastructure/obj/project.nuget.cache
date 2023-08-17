@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hPv0Xy8EvZJly+2hQpEXCpWOtT6CKwnDjTDWfU6NkBFpT5QOF2McOMsNThaRRUZHZyIoXMTt1dtQ/zVixZJ4CA==",
+  "dgSpecHash": "Nl2nkSHlrzvdIz1vti7ZlqjBgU6pWascheQ29SEzM8QqD2zv4wYEV6ksUgbzPkCvHqz2dXb1luMNhxvME4NcAw==",
   "success": true,
-  "projectFilePath": "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+  "projectFilePath": "D:\\study projects\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\islam.draz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\islam.draz\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
@@ -18,6 +18,7 @@
     "C:\\Users\\islam.draz\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.30.1\\microsoft.identitymodel.tokens.6.30.1.nupkg.sha512",
     "C:\\Users\\islam.draz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\islam.draz\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\islam.draz\\.nuget\\packages\\oneof\\3.0.255\\oneof.3.0.255.nupkg.sha512",
     "C:\\Users\\islam.draz\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\islam.draz\\.nuget\\packages\\system.collections.nongeneric\\4.0.1\\system.collections.nongeneric.4.0.1.nupkg.sha512",
     "C:\\Users\\islam.draz\\.nuget\\packages\\system.collections.specialized\\4.0.1\\system.collections.specialized.4.0.1.nupkg.sha512",

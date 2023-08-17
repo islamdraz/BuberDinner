@@ -13,3 +13,48 @@ C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\Buber
 C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.dll
 C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.pdb
 C:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CopyComplete
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.deps.json
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.dll
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.pdb
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.dll
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.pdb
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.AssemblyReference.cache
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfoInputs.cache
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfo.cs
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CopyComplete
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.dll
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
+D:\master\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.deps.json
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.dll
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.pdb
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.dll
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.pdb
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.AssemblyReference.cache
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfoInputs.cache
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfo.cs
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CopyComplete
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.dll
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
+E:\Study Projects\Rest Api Following Clean Architicture\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll
+D:\study projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.deps.json
+D:\study projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.dll
+D:\study projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.pdb
+D:\study projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.dll
+D:\study projects\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.pdb
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.AssemblyReference.cache
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfoInputs.cache
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfo.cs
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CopyComplete
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.dll
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
+D:\study projects\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll

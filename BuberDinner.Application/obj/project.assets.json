@@ -18,6 +18,15 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "OneOf/3.0.255": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/OneOf.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/OneOf.dll": {}
+        }
+      },
       "BuberDinner.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -60,6 +69,21 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "OneOf/3.0.255": {
+      "sha512": "EKrroFkaqbCB80WXr8isiCpSyelDc44qEdUwJ2v++zUDXr3igZ88UPt8MRGlNP5CDdOlHyTjCEzm1WY0MHCypg==",
+      "type": "package",
+      "path": "oneof/3.0.255",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/OneOf.dll",
+        "lib/net45/OneOf.dll",
+        "lib/netstandard1.3/OneOf.dll",
+        "lib/netstandard2.0/OneOf.dll",
+        "oneof.3.0.255.nupkg.sha512",
+        "oneof.nuspec"
+      ]
+    },
     "BuberDinner.Domain/1.0.0": {
       "type": "project",
       "path": "../BuberDinner.Domain/BuberDinner.Domain.csproj",
@@ -69,7 +93,8 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "BuberDinner.Domain >= 1.0.0",
-      "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0"
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0",
+      "oneof >= 3.0.255"
     ]
   },
   "packageFolders": {
@@ -78,11 +103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+      "projectUniqueName": "D:\\study projects\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
       "projectName": "BuberDinner.Application",
-      "projectPath": "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+      "projectPath": "D:\\study projects\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
       "packagesPath": "C:\\Users\\islam.draz\\.nuget\\packages\\",
-      "outputPath": "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Application\\obj\\",
+      "outputPath": "D:\\study projects\\BuberDinner\\BuberDinner.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\islam.draz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +124,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-              "projectPath": "C:\\master\\Study Projects\\Rest Api Following Clean Architicture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+            "D:\\study projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+              "projectPath": "D:\\study projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
             }
           }
         }
@@ -118,6 +143,10 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": {
             "target": "Package",
             "version": "[7.0.0, )"
+          },
+          "oneof": {
+            "target": "Package",
+            "version": "[3.0.255, )"
           }
         },
         "imports": [
@@ -136,7 +165,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
