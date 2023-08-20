@@ -472,6 +472,9 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
+# Ignore any files in /bin and /obj Folders
+*/bin/*
+*/obj/*
 
 # Windows shortcuts
 *.lnk
