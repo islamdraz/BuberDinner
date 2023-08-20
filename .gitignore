@@ -479,17 +479,8 @@ BuberDinner.Api/obj/*
 BuberDinner.Application/obj/*
 # Windows shortcuts
 *.lnk
-BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.csproj.AssemblyReference.cache
-BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.csproj.AssemblyReference.cache
-BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.AssemblyReference.cache
-BuberDinner.Contracts/obj/Debug/net7.0/BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
-BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
-BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
-BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.AssemblyReference.cache
 BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
-BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.csproj.AssemblyReference.cache
-.gitignore
-BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.csproj.AssemblyReference.cache
+./*/[Bb]in/
+./*/[Oo]bj/
 BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.AssemblyReference.cache
-BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
