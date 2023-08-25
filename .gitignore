@@ -479,8 +479,7 @@ BuberDinner.Api/obj/*
 BuberDinner.Application/obj/*
 # Windows shortcuts
 *.lnk
-BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.AssemblyReference.cache
-BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
+
 ./*/[Bb]in/
 ./*/[Oo]bj/
-BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.AssemblyReference.cache
+
