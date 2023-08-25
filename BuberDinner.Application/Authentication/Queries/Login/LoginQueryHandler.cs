@@ -10,7 +10,7 @@ namespace BuberDinner.Application.Authentication.Queries.Login;
 
 public class LoginQueryHandler : IRequestHandler<LoginQuery, ErrorOr<AuthenticationResult>>
 {
-     private readonly IJwtTokenGenerator _JwtTokenGenerator;
+    private readonly IJwtTokenGenerator _JwtTokenGenerator;
     private readonly IUserRepository _UserRepository;
 
     public LoginQueryHandler(IJwtTokenGenerator jwtTokenGenerator, IUserRepository userRepository)
