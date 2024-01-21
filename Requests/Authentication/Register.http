@@ -1,6 +1,6 @@
-@host = http://localhost:5105
+# @host = http://localhost:5105
 
-POST {{host}}/auth/register
+POST {{$dotenv host}}/auth/register
 Content-Type: application/json
 
 

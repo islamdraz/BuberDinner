@@ -1,4 +1,4 @@
-@host = http://localhost:5105
+# @host = http://localhost:5105
 
-GET {{host}}/dinners
+GET {{$dotenv host}}/dinners
 Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiY2IzNjk2OS01NTIxLTRjYzMtOTc2YS1jNzMzOTM1ZGNkYzgiLCJnaXZlbl9uYW1lIjoiaXNsYW0iLCJmYW1pbHlfbmFtZSI6ImRyYXoiLCJqdGkiOiIxZmJkMjZjMi04NzA5LTQ4ZTctOTQ3ZS0yYWVmOTE0NDI0MjIiLCJleHAiOjE2OTMwMDMzNzYsImlzcyI6IkJ1YmVyRGlubmVyIiwiYXVkIjoiQnViZXJEaW5uZXIifQ.ahO_up-Y2Uc7kdnHkTqrx-xR3KAxfNn-PADkvhf1tLc

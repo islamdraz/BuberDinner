@@ -31,7 +31,7 @@ public class AuthenticationController : ApiController
         ErrorOr<AuthenticationResult> registerResult = await _mediator.Send(command);
           
       return registerResult.Match(
-        result => Ok(_mapper.Map<AuthenticationResponse>(result)) ,
+        result => Ok(_mapper.Map<AuthenticationResponse>(result)),
         errors => Problem(errors)
 
        );
